@@ -1,0 +1,19 @@
+﻿.distribuidor {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.descripcion {
+    text-align: left;
+    padding: 20px;
+    color: black;
+    border-radius: 5px;
+}
+
+    .descripcion ul {
+        padding-left: 20px;
+    }
+
+        .descripcion ul li {
+            margin-bottom: 10px;
+        }
